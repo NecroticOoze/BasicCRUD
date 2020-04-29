@@ -1,5 +1,5 @@
 # BasicCRUD
-Currently, this project is a simple CRUD application written in Python. It uses only one external module called 'eel'. Very underrated, imo.
+Currently, this project is a simple CRUD (Create, Read, Update, Delete) application written in Python. It uses only one external module called 'eel'. Very underrated, imo.
 
 99% of all logic is in the javascript.
 
